@@ -2,7 +2,7 @@
 /**
  * main
  */
-public class Hello {
+public class hello {
 
     public static void main(String[] args) {    //not created again this
         System.out.print("Hello World");      //This print the output
